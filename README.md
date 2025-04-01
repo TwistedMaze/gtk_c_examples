@@ -1,2 +1,2 @@
 # gtk_helloworld
-GTK hello world example with GTK4 and CMake
+Folders with files for sample projects in gtk4 with cmake.
