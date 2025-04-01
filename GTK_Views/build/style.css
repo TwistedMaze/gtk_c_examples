@@ -1,0 +1,24 @@
+/* Style for main view */
+.main-view {
+  background-color: #2E3440;
+  color: white;
+  padding: 20px;
+}
+
+.main-view button {
+  background-color: #88C0D0;
+  color: black;
+  border-radius: 10px;
+}
+
+/* Style for second view */
+.second-view {
+  background-color: #3B4252;
+  color: white;
+}
+
+.second-view button {
+  background-color: #EBCB8B;
+  color: black;
+  border-radius: 10px;
+}

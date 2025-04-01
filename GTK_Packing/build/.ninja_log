@@ -1,0 +1,4 @@
+# ninja log v5
+0	250	1743517980257407356	CMakeFiles/HelloWorldGTK.dir/src/main.c.o	83d3e2be9d47e3f5
+0	254	1743517980261407318	CMakeFiles/HelloWorldGTK.dir/src/gtk_callbacks.c.o	ccce779676648d2e
+255	339	1743517980345406532	HelloWorldGTK	9669bf33b0d6cf19

@@ -1,0 +1,3 @@
+/home/oni/Documents/inbox/GTK_Builder/build/CMakeFiles/GtkMultiView.dir
+/home/oni/Documents/inbox/GTK_Builder/build/CMakeFiles/edit_cache.dir
+/home/oni/Documents/inbox/GTK_Builder/build/CMakeFiles/rebuild_cache.dir
